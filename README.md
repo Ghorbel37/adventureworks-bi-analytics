@@ -171,7 +171,7 @@ The solution enables various analytical scenarios:
 
 ## 📄 License
 
-This project is available for educational purposes. AdventureWorks database is a Microsoft sample database.
+The code and reports in this repository are licensed under the [MIT License](LICENSE). The AdventureWorks database is a Microsoft sample database with its own license.
 
 ## 🔗 Resources
 
