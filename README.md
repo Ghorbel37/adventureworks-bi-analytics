@@ -1,5 +1,7 @@
 # AdventureWorks 2019 Business Intelligence Project
 
+*Built for a business intelligence course (2024).*
+
 A comprehensive Business Intelligence solution built on the AdventureWorks2019 database, featuring ETL processes, multidimensional OLAP cubes, and interactive Power BI dashboards for sales and inventory analysis.
 
 ## 📊 Project Overview
